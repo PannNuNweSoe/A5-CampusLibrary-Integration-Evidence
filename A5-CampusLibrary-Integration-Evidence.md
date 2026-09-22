@@ -624,7 +624,7 @@ This demonstrates graceful fallback during the outage and automatic recovery aft
 
 # Evidence Classification
 
-| Evidence | Classification |
+| Evidence |
 |---|---|
 | Campus Library `/api/integration/status` screenshot | 
 | Campus Library `/api/integration/partner-status` screenshot | 
